@@ -5,4 +5,4 @@ Installation :
 
 ## Preview
 
-![Screenshot](./Screenshot_2025_06_02_13-38-14.png)
+![Screenshot](./Screenshot_2025-06-02_13-38-14.png)
