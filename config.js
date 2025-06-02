@@ -1,21 +1,13 @@
-// ╔╗ ╔═╗╔╗╔╔╦╗╔═╗
-// ╠╩╗║╣ ║║║ ║ ║ ║
-// ╚═╝╚═╝╝╚╝ ╩ ╚═╝
-// ┌─┐┌─┐┌┐┌┌─┐┬┌─┐┬ ┬┬─┐┌─┐┌┬┐┬┌─┐┌┐┌
-// │  │ ││││├┤ ││ ┬│ │├┬┘├─┤ │ ││ ││││
-// └─┘└─┘┘└┘└  ┴└─┘└─┘┴└─┴ ┴ ┴ ┴└─┘┘└┘
-
 const CONFIG = {
-	// ┌┐ ┌─┐┌─┐┬┌─┐┌─┐
-	// ├┴┐├─┤└─┐││  └─┐
-	// └─┘┴ ┴└─┘┴└─┘└─┘
 
+	// Basic
+	
 	// General
 	name: 'Farhan',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: true,
-	timeZone: 'Asia/Jakarta',
+	timeZone: 'Asia/Jakarta', //Set up your time zone here
 
 	// Greetings
 	greetingMorning: 'Good morning!',
@@ -47,9 +39,7 @@ const CONFIG = {
 	hourDarkThemeActive: '18:30',
 	hourDarkThemeInactive: '07:00',
 
-	// ┌┐ ┬ ┬┌┬┐┌┬┐┌─┐┌┐┌┌─┐
-	// ├┴┐│ │ │  │ │ ││││└─┐
-	// └─┘└─┘ ┴  ┴ └─┘┘└┘└─┘
+	// Buttons
 
 	firstButtonsContainer: [
 		{
@@ -129,9 +119,7 @@ const CONFIG = {
 		},
 	],
 
-	// ┬  ┬┌─┐┌┬┐┌─┐
-	// │  │└─┐ │ └─┐
-	// ┴─┘┴└─┘ ┴ └─┘
+	// Lists
 
 	// First Links Container
 	firstlistsContainer: [
